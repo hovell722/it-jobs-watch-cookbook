@@ -1,4 +1,4 @@
-name 'python-it-jobs-watch-cookbook'
+name '-it-jobs-watch-cookbook'
 maintainer 'The Authors'
 maintainer_email 'you@example.com'
 license 'All Rights Reserved'
