@@ -1,5 +1,5 @@
 #
-# Cookbook:: python-it-jobs-watch-cookbook
+# Cookbook:: it-jobs-watch-cookbook
 # Spec:: default
 #
 # Copyright:: 2020, The Authors, All Rights Reserved.
